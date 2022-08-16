@@ -1,0 +1,11 @@
+{
+  "name": "box-pen-challenge",
+  "version": "1.0.0",
+  "description": "Box and Pen Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danielle Guerzon",
+  "license": "ISC"
+}
